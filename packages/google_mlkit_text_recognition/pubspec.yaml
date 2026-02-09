@@ -24,5 +24,3 @@ flutter:
       android:
         package: com.google_mlkit_text_recognition
         pluginClass: GoogleMlKitTextRecognitionPlugin
-      ios:
-        pluginClass: GoogleMlKitTextRecognitionPlugin
