@@ -23,5 +23,3 @@ flutter:
       android:
         package: com.google_mlkit_commons
         pluginClass: GoogleMlKitCommonsPlugin
-      ios:
-        pluginClass: GoogleMlKitCommonsPlugin
